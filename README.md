@@ -1,1 +1,1 @@
-##LeetCode and GFG daily POTD Solutions
+# LeetCode and GFG daily POTD Solutions
